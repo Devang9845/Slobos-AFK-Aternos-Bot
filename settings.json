@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "RedstoneHeart",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "RedstoneHeart",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "chronicsmp9845.minekeep.gg",
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
