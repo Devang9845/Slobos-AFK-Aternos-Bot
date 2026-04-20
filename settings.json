@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "ChronicSMP.aternos.me",
-    "port": 27859,
+    "ip": "ChronicSMP9845.aternos.me",
+    "port": 25600,
     "version": "1.21.11",
     "try-creative": false
   },
