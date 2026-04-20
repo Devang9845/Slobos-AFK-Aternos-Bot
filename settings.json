@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "chronicsmp9845.minekeep.gg",
-    "port": 25565,
+    "ip": "ChronicSMP.aternos.me",
+    "port": 27859,
     "version": "1.21.11",
     "try-creative": false
   },
